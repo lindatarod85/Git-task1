@@ -1,0 +1,20 @@
+{
+  "name": "git-task1",
+  "version": "1.0.0",
+  "description": "> This line of text is intended to create a merge conflict. It should not remain in the final version of this file!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindatarod85/Git-task1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindatarod85/Git-task1/issues"
+  },
+  "homepage": "https://github.com/lindatarod85/Git-task1#readme"
+}
